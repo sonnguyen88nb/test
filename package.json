@@ -1,0 +1,27 @@
+{
+  "name": "crawler",
+  "version": "1.0.0",
+  "description": "\"demo crawl data\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sonnguyen88nb/crawle.git"
+  },
+  "keywords": [
+    "crawl",
+    "demo"
+  ],
+  "author": "sonnguyen88nb@gmil.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sonnguyen88nb/crawle/issues"
+  },
+  "homepage": "https://github.com/sonnguyen88nb/crawle#readme",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.2",
+    "request": "^2.81.0"
+  }
+}
